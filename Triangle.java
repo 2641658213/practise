@@ -1,5 +1,5 @@
 public class Triangle {
-    private double sideA;
+    private double sideA;//git手动修改测试
     private double sideB;
     private double sideC;
     private double C;
